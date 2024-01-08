@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct.svg)](https://stand-with-ukraine.pp.ua)
+
 <h1 align="center">Hi 👋, I'm Slava</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Ukraine</h3>
 
